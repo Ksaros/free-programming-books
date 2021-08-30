@@ -138,7 +138,7 @@
 ### PHP
 
 * [Kurs PHP](http://phpkurs.pl) - Leszek Krupiński
-* [Kurs PHP OOP](http://cyberpunk.e-spin.pl/86,37,5/KOD/KURSY-PROGRAMOWANIA/Kurs-PHP-OOP)
+* [Kurs PHP OOP](http://cyberpunk.e-spin.pl/86,37,5/KOD/KURSY-PROGRAMOWANIA/Kurs-PHP-OOP) - not working
 * [PHP](https://pl.wikibooks.org/wiki/PHP) - Wikibooks
 * [PHP: The Right Way](http://pl.phptherightway.com) - Josh Lockhart
 
